@@ -1,3 +1,7 @@
+/*
+ * SGP by maker asia
+ */
+
 const int RED =  0;
 const int GREEN =  1;
 const int sensor = 4; //4 A2
